@@ -1,0 +1,1 @@
+Proyecto para automatizar el cuidado de las plantas de tu casa amigoo

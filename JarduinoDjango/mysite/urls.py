@@ -18,6 +18,6 @@ from django.urls import path
 from django.urls import include
 
 urlpatterns = [
-    path('Plantas/', include('Plantas.urls')),
+    path('Jarduino/', include('Jarduino.urls')),
     path('admin/', admin.site.urls),
 ]
