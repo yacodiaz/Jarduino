@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class PlantasConfig(AppConfig):
-    name = 'Plantas'
+class JarduinoConfig(AppConfig):
+    name = 'Jarduino'
